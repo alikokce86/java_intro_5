@@ -47,6 +47,9 @@ public class ScannerHelper {
 
 
     }
+        /*
+        Create a method that asks user to enter 4 favorite colors and RETURN it
+         */
 
     public static String getFavColors() {
         System.out.println("Please enter 4 of your favorite colors");

@@ -65,6 +65,7 @@ public class MathHelper {
     /*
     Create a method that takes 2 int arguments and returns their sum
     Method name = sum
+
     public static
     return type
     returns int
